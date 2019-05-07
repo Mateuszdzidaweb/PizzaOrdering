@@ -1,0 +1,43 @@
+.index-heading{
+    text-align: center;
+    padding: 10px;
+}
+
+.price{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1{
+    color: #f6993f;
+    text-align: center;
+    padding: 10px;
+}
+
+#formDiv{
+    margin-left: auto;
+    margin-right: auto;;
+}
+
+#btnSingUp{
+    width: 100%;
+}
+
+a, a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+
+.row{
+    padding: 40px;
+}
+
+.toppings-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 20%;
+    float: left;
+    border: 1px solid black;
+    padding: 10px;
+}
